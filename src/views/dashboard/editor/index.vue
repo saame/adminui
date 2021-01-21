@@ -36,6 +36,9 @@ export default {
       'avatar',
       'roles'
     ])
+  },
+  mounted() {
+    console.log('hi')
   }
 }
 </script>
